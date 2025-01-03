@@ -1,1 +1,1 @@
-Implementing splay tree in Data structure course
+Implementing splay tree Data structure in java
